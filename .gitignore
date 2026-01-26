@@ -1,0 +1,6 @@
+target/
+frontend/node_modules/
+*.log
+.idea/
+.vscode/
+.DS_Store
